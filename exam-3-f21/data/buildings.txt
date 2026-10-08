@@ -1,0 +1,11 @@
+# Building Name,Country,Footprint in ft^2
+Boeing Everett Factory,United States,42800000
+Jean-Luc Lagardère Plant,France,1319000
+Aerium,Germany,750000
+Meyer Werft Dockhalle 2,Germany,680000
+Boeing Composite Wing Center,United States,1200000
+NASA Vehicle Assembly Building,United States,348470
+The Palace of Parliament,Romania,3930000
+Inex Sipoo,Finland,2100000
+Target Import Warehouse,United States,2020000
+National Exhibition Centre (Halls 1–5),United Kingdom,2002087
